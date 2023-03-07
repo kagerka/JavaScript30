@@ -1,6 +1,6 @@
 # JavaScript30
 
-[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+:link: [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 
 :bulb: Every project is in special tree.
 
