@@ -1,6 +1,6 @@
 # JavaScript30
 
-> :bulb: Every project is in special tree.
+:bulb: Every project is in special tree.
 
 # Projects:
 
