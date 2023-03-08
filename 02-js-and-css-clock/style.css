@@ -36,8 +36,28 @@ body {
 
 .hand {
   width: 50%;
-  height: 6px;
+  height: 5px;
   background: black;
   position: absolute;
   top: 50%;
+  transform-origin: 100%;
+  transform: rotate(90deg);
+  border-radius: 50px;
+}
+
+.hour-hand {
+  height: 8px;
+}
+
+.second-hand {
+  height: 2px;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: black;
+  position: absolute;
+  margin: calc(50% - 10px) calc(50% - 10px);
 }
