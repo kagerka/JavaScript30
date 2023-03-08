@@ -14,7 +14,7 @@
 
 ## 02 - JS and CSS Clock
 
-- Status: in progress
+- Status: done
 - Files: [02-js-and-css-clock](https://github.com/kagerka/JavaScript30/tree/02-js-and-css-clock/02-js-and-css-clock)
 - Deploy: [02-js-and-css-clock](https://kagerka.github.io/JavaScript30/02-js-and-css-clock/)
 
