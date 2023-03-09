@@ -8,19 +8,19 @@
 
 ## 01 - JavaScript Drum Kit
 
-- Status: done
+- Status: done :white_check_mark:
 - Files: [01-javascript-drum-kit](https://github.com/kagerka/JavaScript30/tree/01-javascript-drum-kit/01-javascript-drum-kit)
 - Deploy: [01-javascript-drum-kit](https://kagerka.github.io/JavaScript30/01-javascript-drum-kit/)
 
 ## 02 - JS and CSS Clock
 
-- Status: done
+- Status: done :white_check_mark:
 - Files: [02-js-and-css-clock](https://github.com/kagerka/JavaScript30/tree/02-js-and-css-clock/02-js-and-css-clock)
 - Deploy: [02-js-and-css-clock](https://kagerka.github.io/JavaScript30/02-js-and-css-clock/)
 
 ## 03 - CSS Variables
 
-- Status: in progress
+- Status: done :white_check_mark:
 - Files: [03-css-variables](https://github.com/kagerka/JavaScript30/tree/03-css-variables/03-css-variables)
 - Deploy: [03-css-variables](https://kagerka.github.io/JavaScript30/03-css-variables/)
 
